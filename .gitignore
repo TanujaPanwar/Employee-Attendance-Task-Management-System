@@ -15,3 +15,4 @@ target/
 
 # Compiled class files
 *.class
+src/main/resources/META-INF/persistence.xml
