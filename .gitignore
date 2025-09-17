@@ -1,0 +1,17 @@
+# Maven build folder
+target/
+
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ-specific files (if project opened there in future)
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
