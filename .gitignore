@@ -6,7 +6,7 @@ target/
 .project
 .settings/
 
-# IntelliJ-specific files (if project opened there in future)
+# IntelliJ-specific files
 .idea/
 *.iml
 
@@ -15,4 +15,3 @@ target/
 
 # Compiled class files
 *.class
-src/main/resources/META-INF/persistence.xml
